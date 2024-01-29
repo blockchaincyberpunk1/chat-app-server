@@ -40,7 +40,7 @@ To set up the backend service on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/blockchaincyberpunk1/chat-app-server.git
    ```
 
 2. Navigate to the server directory:
